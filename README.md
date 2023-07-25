@@ -23,3 +23,4 @@ My progress in UX, UI &amp; Front End in Origamid 🐺. All Projects developed t
 🔲 Bootstrap 4<br>
 🔲 Automação Front End com NPM<br>
 🔲 JavaScript e jQuery<br>
+🔲 Web Design Completo<br>
