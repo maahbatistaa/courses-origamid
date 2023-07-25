@@ -2,7 +2,7 @@
 My progress in UX, UI &amp; Front End in Origamid 🐺. All Projects developed throughout the courses 🏆
 
 ☑️ UI Design para Iniciantes 🏆<br>
-🔲 HTML e CSS para Iniciantes ⏳<br>
+🟪 HTML e CSS para Iniciantes ⏳<br>
 🔲 CSS Flexbox<br>
 🔲 CSS Grid Layout<br>
 🔲 UI Design Avançado<br>
