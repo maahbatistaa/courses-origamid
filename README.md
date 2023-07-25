@@ -2,8 +2,8 @@
 My progress in UX, UI &amp; Front End in Origamid 🐺. All Projects developed throughout the courses 🏆
 
 ☑️ UI Design para Iniciantes 🏆<br>
-🟪 HTML e CSS para Iniciantes ⏳<br>
 <hr>
+🟪 HTML e CSS para Iniciantes ⏳<br>
 
 ### Bikcraft
 O Bikcraft foi o projeto final do curso de HTML e CSS para inciantes. 
