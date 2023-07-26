@@ -52,4 +52,7 @@
     padding: 40px 20px;
     justify-self: center;
   }
+  .depoimento img {
+    max-height: 200px;
+  }
 }
