@@ -18,8 +18,21 @@ Além de ter feito todo o prototipo no curso de UI Design, eu pude colocar em pr
 [Bikcraft](https://bikcraft-flame.vercel.app)
 <hr>
 
-🟪 CSS Flexbox<br>
-🔲 CSS Grid Layout<br>
+☑️ CSS Flexbox<br>
+### FlexBlog
+O Flexblog foi o projeto final do curso de CSS Flexbox.
+
+### Aprendizados
+Obtive o conhecimento e a pratica do flexbox, utilizando diversas formas de alinhar os itens com o flexbox, além de torna-lo responsivo utilizando poucos media queries, pois o flexbox já adapta o layout automaticamente ao utilizar o flex-wrap.
+
+### Stack utilizada
+***Front-end:*** HTML e CSS
+
+### Demonstração
+[FlexBlog](https://flexblog-green.vercel.app)
+<hr>
+
+🟪 CSS Grid Layout<br>
 🔲 UI Design Avançado<br>
 🔲 JavaScript Completo ES6<br>
 🔲 React Completo<br>
