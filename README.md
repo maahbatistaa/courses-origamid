@@ -37,7 +37,7 @@ Obtive o conhecimento e a pratica do flexbox, utilizando diversas formas de alin
 O Wildbeast foi o projeto final do curso de CSS Grid Layout.
 
 ### Aprendizados
-O Grid Layout CSS veio para facilitar a criação de layouts flexíveis e responsivos, reduzindo aninhamento e reduzindo o uso do float.
+Utilizando o Grid facilita a criação de layouts flexíveis e responsivos, reduzindo a utilização de floats que era usado para fazer o mesmo posicionamento.
 
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
