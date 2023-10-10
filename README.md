@@ -32,8 +32,21 @@ Obtive o conhecimento e a pratica do flexbox, utilizando diversas formas de alin
 [FlexBlog](https://flexblog-green.vercel.app)
 <hr>
 
-🟪 CSS Grid Layout<br>
-🔲 UI Design Avançado<br>
+☑️ CSS Grid Layout<br>
+### Wildbeast
+O Wildbeast foi o projeto final do curso de CSS Grid Layout.
+
+### Aprendizados
+O Grid Layout CSS veio para facilitar a criação de layouts flexíveis e responsivos, reduzindo aninhamento e reduzindo o uso do float.
+
+### Stack utilizada
+***Front-end:*** HTML e CSS
+
+### Demonstração
+[Wildbeast](https://wildbeast-pink.vercel.app)
+<hr>
+
+🟪 UI Design Avançado<br>
 🔲 JavaScript Completo ES6<br>
 🔲 React Completo<br>
 🔲 WordPress REST API Dogs<br>
