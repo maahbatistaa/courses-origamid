@@ -60,8 +60,17 @@ img {
   color: white;
   font-size: 1.125em;
   background: rgba(0, 0, 0, .1);
+  border-radius: 5px;
+  transition: 0.1s;
 }
 
+.header nav a:hover{
+  background: rgba(0, 0, 0, .5);
+}
+
+.header li + li {
+  margin-left: 30px;
+}
 
 
 
