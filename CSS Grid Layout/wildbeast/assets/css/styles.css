@@ -21,7 +21,7 @@ a{
 }
 
 img {
-  max-width: 100px;
+  max-width: 100%;
 }
 
 /*Grid Geral*/
@@ -35,9 +35,38 @@ img {
   ;
 }
 
+ /*HEADER*/
 .header {
   grid-area: header;
+  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
 }
+
+.logo {
+  max-width: 200px;
+}
+
+.header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header nav a {
+  display: block;
+  padding: 10px;
+  color: white;
+  font-size: 1.125em;
+  background: rgba(0, 0, 0, .1);
+}
+
+
+
+
+
+
 
 .sidenav {
   grid-area: sidenav;
