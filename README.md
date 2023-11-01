@@ -46,22 +46,23 @@ Utilizando o Grid facilita a criação de layouts flexíveis e responsivos, redu
 [Wildbeast](https://wildbeast-pink.vercel.app)
 <hr>
 
-🟪 UI Design Avançado<br>
-🔲 JavaScript Completo ES6<br>
+🟪 JavaScript Completo ES6<br>
 🔲 React Completo<br>
 🔲 WordPress REST API Dogs<br>
 🔲 TypeScript para Iniciantes<br>
+🔲 React com TypeScript<br>
 🔲 Redux com React<br>
-🔲 WordPress Como CMS<br>
 🔲 CSS Avançado Posicionamento<br>
-🔲 Tipografia Avançada<br>
+🔲 WordPress Como CMS<br>
 🔲 CSS com SASS<br>
-🔲 UX Design Heurística<br>
-🔲 Adobe XD<br>
 🔲 Vue.js 2 Completo<br>
 🔲 WordPress REST API<br>
 🔲 WooCommerce Como CMS<br>
 🔲 Bootstrap 4<br>
 🔲 Automação Front End com NPM<br>
+🔲 UI Design Avançado<br>
+🔲 UX Design Heurística<br>
+🔲 Tipografia Avançada<br>
+🔲 Adobe XD<br>
 🔲 JavaScript e jQuery<br>
 🔲 Web Design Completo<br>
