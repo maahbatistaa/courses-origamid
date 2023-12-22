@@ -14,3 +14,5 @@ const h2animais = document.querySelector('.animais-descricao')
 console.log(h2animais)
 
 // Selecione o último p do site
+const paragrafos = document.querySelectorAll('p')
+console.log(paragrafos[paragrafos.length - 1])
