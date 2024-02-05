@@ -19,16 +19,17 @@ console.log(totalCaracteres);
 
 function criarElemento(tag, classe, conteudo) {
   const elemento = document.createElement(tag);
-  classe ? elemento.classList.add(classe) : null
-  conteudo ? elemento.innerHTML = conteudo : null
-  return elemento
+  classe ? elemento.classList.add(classe) : null;
+  conteudo ? (elemento.innerHTML = conteudo) : null;
+  return elemento;
 }
 
-console.log(criarElemento('li', 'azul',  'isso é um conteudo'))
+console.log(criarElemento('li', 'azul', 'isso é um conteudo'));
 
 // Crie uma nova função utilizando a anterior como base
 // essa nova função deverá sempre criar h1 com a
 // classe titulo. Porém o parâmetro conteudo continuará dinâmico
-const h1Titulo = criarElemento.bind(null, 'h1', 'titulo')
+const h1Titulo = criarElemento.bind(null, 'h1', 'titulo');
+const cursoJS = h1Titulo('Cursos de Javascript');
 
-console.log(h1Titulo('Cursos de Javascript'))
+console.log(cursoJS);
