@@ -9,5 +9,3 @@ export default function initFetchBitcoin() {
       console.log(Error(erro));
     });
 }
-
-//https://blockchain.info/ticker
