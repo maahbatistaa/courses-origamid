@@ -10,6 +10,7 @@ My progress in UX, UI &amp; Front End in Origamid 🐺. All Projects developed t
 🔲 WordPress REST API Dogs<br>
 🔲 TypeScript para Iniciantes<br>
 🔲 React com TypeScript<br>
+🔲 Next.js<br>
 🔲 Redux com React<br>
 🔲 CSS Avançado Posicionamento<br>
 🔲 WordPress Como CMS<br>
@@ -24,4 +25,3 @@ My progress in UX, UI &amp; Front End in Origamid 🐺. All Projects developed t
 🔲 Tipografia Avançada<br>
 🔲 Adobe XD<br>
 🔲 JavaScript e jQuery<br>
-🔲 Web Design Completo<br>
