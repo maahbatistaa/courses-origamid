@@ -5,8 +5,8 @@ My progress in UX, UI &amp; Front End in Origamid 🐺. All Projects developed t
 ☑️ HTML e CSS para Iniciantes 🏆<br>
 ☑️ CSS Flexbox🏆<br>
 ☑️ CSS Grid Layout🏆<br>
-🟪 JavaScript Completo ES6<br>
-🔲 React Completo<br>
+☑️ JavaScript Completo ES6🏆<br>
+🟪 React Completo<br>
 🔲 WordPress REST API Dogs<br>
 🔲 TypeScript para Iniciantes<br>
 🔲 React com TypeScript<br>
